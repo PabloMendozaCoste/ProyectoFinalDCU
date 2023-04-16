@@ -1,0 +1,56 @@
+C:\Users\HP\Desktop\proyecto_final\agend\agend\bin\Debug\agend.exe.config
+C:\Users\HP\Desktop\proyecto_final\agend\agend\bin\Debug\agend.exe
+C:\Users\HP\Desktop\proyecto_final\agend\agend\bin\Debug\agend.pdb
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.Form1.resources
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.Form2.resources
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.Properties.Resources.resources
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.exe
+C:\Users\HP\Desktop\proyecto_final\agend\agend\obj\Debug\agend.pdb
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\bin\Debug\agend.exe.config
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\bin\Debug\agend.exe
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\bin\Debug\agend.pdb
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\obj\Debug\agend.csproj.AssemblyReference.cache
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\obj\Debug\agend.csproj.SuggestedBindingRedirects.cache
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\obj\Debug\agend.Form1.resources
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\obj\Debug\agend.Form2.resources
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\obj\Debug\agend.Properties.Resources.resources
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\obj\Debug\agend.csproj.GenerateResource.cache
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\obj\Debug\agend.csproj.CoreCompileInputs.cache
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\obj\Debug\agend.exe
+C:\Tareas de Jearin\cita_medico-main\proyecto_final\agend\agend\obj\Debug\agend.pdb
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\bin\Debug\agend.exe.config
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\bin\Debug\agend.exe
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\bin\Debug\agend.pdb
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.csproj.AssemblyReference.cache
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.Form1.resources
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.Form2.resources
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.Properties.Resources.resources
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.Universidades.resources
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.csproj.GenerateResource.cache
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.csproj.CoreCompileInputs.cache
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.exe
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.pdb
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\bin\Debug\es-419\agend.resources.dll
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.Universidades.es-419.resources
+C:\Users\Angel Rivas\OneDrive\Escritorio\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\es-419\agend.resources.dll
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\bin\Debug\agend.exe.config
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\bin\Debug\agend.exe
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\bin\Debug\agend.pdb
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\bin\Debug\es-419\agend.resources.dll
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.Form1.resources
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.Form2.resources
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.Universidades.resources
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.Universidades.es-419.resources
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\es-419\agend.resources.dll
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.exe
+C:\Users\Admin\Source\Repos\Proyecto final DCU\proyecto_final\agend\agend\obj\Debug\agend.pdb
